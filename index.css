@@ -5,3 +5,8 @@ background:turquoise;
 p {
 color:black;
 }
+
+.secret {
+  color:turquoise;
+  text-decoration:none;
+}
